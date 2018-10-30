@@ -1,7 +1,6 @@
 {
   "name": "chat-app",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "node server/server.js",
@@ -15,5 +14,14 @@
   "dependencies": {
     "express": "^4.16.4",
     "socket.io": "^2.1.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Greenestgreen/node-chat-course.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Greenestgreen/node-chat-course/issues"
+  },
+  "homepage": "https://github.com/Greenestgreen/node-chat-course#readme",
+  "description": ""
 }
